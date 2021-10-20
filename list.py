@@ -11,3 +11,6 @@ args = parser.parse_args()
 print(args.accumulate(args.integers))
 x = [1,23,56,2345,57]
 print("Anirudh", args.accumulate(x))
+#baby_1 = [0,0,0,0,0]
+#baby_2 = [1,2,3,4,5]
+#expert = "Million numbers"  
